@@ -41,6 +41,7 @@
   },
   "dependencies": {
     "@lucia-auth/adapter-prisma": "latest",
+    "@lucia-auth/oauth": "^1.0.1",
     "@prisma/client": "^4.13.0",
     "lucia-auth": "latest"
   }
